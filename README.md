@@ -5,7 +5,7 @@ DISCLAIMER
 I (@minikek) am not responsible for any loss that could happen using one of the above scripts. Please use them with your own responsibility.
 
 Informations
-This repository is opened to pull-requests. You can also report bugs in the scripts. I'm also opened to new strategies / ideas.
+This repository is opened to pull-requests. You can also report bugs in the scripts. I'm also opened to new strategies/ideas.
 
 I strongly advise you to read the script well. So you can understand the script and the risks before actually using it. 
 
